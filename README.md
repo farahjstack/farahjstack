@@ -4,7 +4,7 @@
 
 <br>
 
-😄  **Pronouns:** *she/her* 
+🙋🏽‍♀️  **Pronouns:** *she/her* 
 
 👩🏾‍💻 **Personal website:** [farahjstack.github.io](https://farahjstack.github.io/)
 
