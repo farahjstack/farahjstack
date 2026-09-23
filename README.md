@@ -18,12 +18,12 @@ Beyond the classroom, I’m supporting the Santa Barbara County Action Network (
 
 When I’m not working or studying, you can usually find me paddling with my outrigger canoe club, hiking somewhere along the California coast, or finding any excuse to be outside and near the water.
 
- ### Experience 🐠 🌊
+ ### Experience 👩🏾‍💻
 - City of Malibu | Environmental Sustainability Analyst | September 2024 - July 2026
 
 - Community Environmental Council | Senior Climate Programs Associate | March 2023 - September 2024
 
-### Education 💻 📓
+### Education 📚
 
 - Master of Environmental Data Science, University of California Santa Barbara - Bren School (Graduation Expected June 2027)
 
