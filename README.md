@@ -6,7 +6,7 @@
 
 😄  **Pronouns:** *she/her* 
 
-👩‍💻 **Personal website:** [farahjstack.github.io](https://farahjstack.github.io/)
+👩🏾‍💻 **Personal website:** [farahjstack.github.io](https://farahjstack.github.io/)
 
 📫 **Email:** farahjstack@gmail.com
 
