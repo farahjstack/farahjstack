@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! I'm Farah Jehan Stack! </h1>
+<h1 align="center"> Hello and welcome! My name is Farah Jehan Stack! </h1>
 
 <h3 align="center"> Climate justice advocate and environmental data scientist in training at the Bren School of Environmental Science and Management in Santa Barbara, California (UCSB) 🌱 </h3>
 
