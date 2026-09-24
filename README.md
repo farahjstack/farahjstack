@@ -4,13 +4,13 @@
 
 <br>
 
-🙋🏽‍♀️  **Pronouns:** *she/her* 
+**Pronouns:** *she/her* 
 
-👩🏾‍💻 **Personal website:** [farahjstack.github.io](https://farahjstack.github.io/)
+**Personal website:** [farahjstack.github.io](https://farahjstack.github.io/)
 
-📫 **Email:** farahjstack@gmail.com
+**Email:** farahjstack@gmail.com
 
-### What am I up to? 🤸🏾‍♀️ 🌎
+### What am I up to? 🤸🏾‍♀️ 
 
 Right now, I’m pursuing my Master of Environmental Data Science at the Bren School at UC Santa Barbara, where I’m building new skills to explore how data can strengthen environmental decision-making, climate resilience, and environmental justice.
 
